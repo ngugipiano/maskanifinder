@@ -1,0 +1,21 @@
+body{
+  font-family: 'OCR A Extended', sans-serif;
+  background: url(../img/background/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+ 
+}
+nav{
+  height:100px;
+}
+.bg-dark{background-color: black !important;
+  opacity: 80%;
+ }
+ p{
+   position: absolute;
+   margin-top: 200px;
+   margin-left: 400px;
+   font-size: 20px;
+   color: #ff5
+ }
